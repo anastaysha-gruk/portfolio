@@ -1,6 +1,6 @@
 # Портфолио QA Engineer
 ## Обо мне 
-Привет! Меня зовут Анастасия, я junior QA Engineer.
+Привет! Меня зовут Анастасия, я Junior QA Engineer.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 ## Навыки и технологии
 Jira | Confluence | Qase | Trello | Sitechco | Miro | PairwiseTool | Pict | JSON | Postman | Swagger | Mockoon | SOAP | Python | REST API | JMeter | PostgreSQL | Python
