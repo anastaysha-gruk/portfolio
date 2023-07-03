@@ -11,7 +11,9 @@ gryk_n@mail.ru
 
 ## Резюме 
 https://anastaysha-gruk.atlassian.net/wiki/spaces/PF/overview
+
 логин: anastaysha95nsk@gmail.com
+
 пароль:  passwordgruk-0_0
 ## Проекты
 ### Тест кабинета учителя в приложении Skyeng
@@ -29,9 +31,9 @@ https://anastaysha-gruk.atlassian.net/wiki/spaces/PF/overview
 
 https://anastaysha-gruk.atlassian.net/wiki/spaces/PF/pages/131162
 
-(логин: anastaysha95nsk@gmail.com
+логин: anastaysha95nsk@gmail.com
 
-пароль:  passwordgruk-0_0)
+пароль:  passwordgruk-0_0
 
 **Итоги:**
 1. На этапе Smoke теста стало ясно, что функционал "Личные события" не готов к тестированию, но продолжила для проекта.
