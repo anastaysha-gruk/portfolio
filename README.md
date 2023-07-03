@@ -3,7 +3,7 @@
 Привет! Меня зовут Анастасия, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 ## Навыки и технологии
-Jira | Confluence | Qase | Trello | Sitechco | Miro | PairwiseTool | Pict | JSON | Postman | Swagger | Mockoon | SOAP | Python | REST API | JMeter | PostgreSQL
+Jira | Confluence | Qase | Trello | Sitechco | Miro | PairwiseTool | Pict | JSON | Postman | Swagger | Mockoon | SOAP | Python | REST API | JMeter | PostgreSQL | Python
 ## Образование
 ### Skypro — Онлайн-университет от Skyeng, QA Engineer (сентябрь 2022 - по настоящее время)
 Работа в баг-трекинговой системе Jira. Составление чек-листов в Sitechco, тест-кейсов в Qase. Работа с техниками тест-дизайна. Тестирование документации. Регрессионное, smoke.
